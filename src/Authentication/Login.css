@@ -1,0 +1,19 @@
+.LoginForm {
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.5);
+    padding: 60px 60px;
+}
+
+.flexContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.TableStyle {
+    position: relative;
+}
+
+.TableStyle td {
+    padding: 5px;
+}
+
