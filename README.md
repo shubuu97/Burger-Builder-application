@@ -1,6 +1,8 @@
 About The project:- This application uses React, Redux, React-Router, Firebase, JSX, CSS etc.
 This is a burger builder application where user can create a burger by adding ingredients then signup with email and password and then can place his order by filling up the form. They can also see their order history.
 
+Demo: https://react-burger-builder-7f114.firebaseapp.com/
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
